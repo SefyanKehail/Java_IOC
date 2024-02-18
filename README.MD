@@ -17,6 +17,6 @@
 </ul>
 <br>
 <br>
-<h1>Partie 1 : Digramme des classes</h1>
+<h1>Digramme des classes</h1>
 
 <img src="diagram.png">
